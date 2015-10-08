@@ -64,7 +64,8 @@ class Train
 		@train_route.route_list[@index -1].name
 	end
 
-end 
+end
+ 
 class Station
 	def initialize(name)
 	 @name = name
